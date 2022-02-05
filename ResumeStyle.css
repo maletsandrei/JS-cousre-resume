@@ -1,0 +1,35 @@
+body {
+    padding-left: 500px; /* Поле слева */
+    background: 
+     url(BlockWall.jpeg) repeat-y; 
+                                        
+    }
+
+figure {
+    background: #597d97; /* Цвет фона */
+    padding: 10px; /* Поля вокруг */
+    display: block; /* Блочный элемент */
+    width: 200px; /* Ширина */
+    float: left; /* Блоки выстраиваются по горизонтали */
+    margin: 0 10px 10px 0; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+   }
+  
+h1 {
+    padding-left: 400px;
+    margin-top: 150px;
+    font-size: 55px;
+    color: #597d97; 
+}
+
+ul {
+    padding-left: 450px;
+    font-size: 30px;
+    color: #597d97;
+}
+
+.aboutMe {
+    margin-top: 150px;
+    font-size: 25px;
+    color: #597d97;
+}
